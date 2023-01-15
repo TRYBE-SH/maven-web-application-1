@@ -10,7 +10,7 @@
 	
 	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>TrainingProject</description>
 
 	<organization>
 		<name>Landmark Technologies</name>
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>Training</finalName>
 		
 		<plugins>
 			<plugin>
